@@ -1,0 +1,75 @@
+.title{
+    color:blue;
+    width: 30%;
+    margin-left: 320px;
+    }
+
+.titulos {
+    width: 90%;
+    height: auto;
+    margin: 5% auto;
+    background: orange;
+    padding: 15px;
+       
+}
+
+.body{
+ border: 10px ridge #6666cc;
+ font-family: arial;
+}
+
+.info .tituloseccion {
+    color: blue;
+    font-family: arial, sans-serif;
+    font-size:large;
+    font-weight: bolder;
+    display: inline;
+    margin-right:3px;
+    margin-left:5px;
+}
+
+.info .tituloinfo {
+    color: black;
+    font-family: arial;
+    font-size:large;
+    font-weight: normal;
+    display: inline;
+    margin-left:7px;
+}
+
+.name .img {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    width: 180px;
+    heigt: 180px;
+    border-radius: 100%;
+}
+
+.name .img img {
+width:160px;
+heigt:300px;
+}
+
+
+button {
+   font-size: 25px;
+   padding: 10px  20px;
+   margin: 50px  0 50px  140px;
+   background-color:red;
+   border:none;
+   outline: none;
+   color: aqua;
+   border-radius: 5px;
+   box-shadow: 0 0 10px  black;
+   cursor: pointer;
+   transition: .5s;
+}
+
+button:hover{
+   background-color: black;
+   box-shadow: 0 0 30px orange;
+}
+
+
+
